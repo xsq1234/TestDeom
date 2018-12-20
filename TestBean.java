@@ -13,7 +13,7 @@ public class TestBean implements MulitTypeListener {
 	@Override
 	public int getItemType() {
 		return 0;
-		kasdkkdffjsfaf
-		lldlldldldldl
+		kkkkkkkkkkdddddddddddgggggggggk
+		jdskfasfjaksjfdsa
 	}
 }
