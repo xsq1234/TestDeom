@@ -20,4 +20,8 @@ public class TestBean implements MulitTypeListener {
 		public int getItemType() {
 		kkkkkkkkkkdddddddddddgggggggggkddddd
 	}
+
+			public int getItemType44444() {
+		kkkkkkkkkkdddddddddddgggggggggkddddd
+	}
 }
