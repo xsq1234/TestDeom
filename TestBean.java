@@ -35,4 +35,12 @@ public class TestBean implements MulitTypeListener {
 			第三次提交分支 djddddkdk快点快点开
 		""""kdkdkdkdkd
 	}
+			pub()4{
+			第次提交分支 djddddkdk快点快点开
+		""""kdkdkdkdkd
+	}
+				pub()4{
+			第次提交分支 djddddkdk快点快点开
+		""""kdkdkdkdkd
+	}
 }
