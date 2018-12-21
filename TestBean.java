@@ -29,4 +29,11 @@ public class TestBean implements MulitTypeListener {
 		kkkkkkkkkkdddddddddddgggggggggkddddd
 	}
 	pub主分支提交（）「」
+	pub(){
+		""""kdkdkdkdkd
+	}
+		pub()3{
+			第三次提交分支 djddddkdk快点快点开
+		""""kdkdkdkdkd
+	}
 }
