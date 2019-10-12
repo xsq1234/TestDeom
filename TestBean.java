@@ -13,29 +13,30 @@ public class TestBean implements MulitTypeListener {
 	@Override
 	public int getItemType() {
 		return 0;
-		kkkkkkkkkkdddddddddddgggggggggk
-		jdskfasfjaksjfdsa
 	}
 
 		public int getItemType() {
-		kkkkkkkkkkdddddddddddgggggggggkddddd
+			//4646456
+			//45346346
 
-		//wer4534535
+			//54646456546
 	}
 
 			public int getItemType44444 {
 			public int getItemType44444() {
-				jdkdkdkdkkddyyyyyyyyyyyyyyhhhhhhhhhhhhh
 			}
 			public int getItemType33333() {
 		kkkkkkkkkkdddddddddddgggggggggkddddd
 	}
 	pub主分支提交（）「」
 	pub(){
-		""""kdkdkdkdkd
+
 	}
 		pub()3{
-			第三次提交分支 djddddkdk快点快点开
-		""""kdkdkdkdkd
+取消了哈
+	}
+
+		pub()4{
+取消了哈
 	}
 }
